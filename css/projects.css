@@ -1,0 +1,47 @@
+#projects {
+    height: 60vh;
+}
+
+.projects1 {
+    display: flex;
+    justify-content: center;
+}
+
+#kuchi {
+    height: 15em;
+    margin: .5em;
+}
+
+#static {
+    height: 15em;
+    margin: .5em;
+}
+
+#api1 {
+    height: 15em;
+    margin: .5em;
+}
+
+.projects2 {
+    display: flex;
+    justify-content: center;
+}
+
+#api2 {
+    height: 10.5em;
+    margin: .5em;
+}
+
+#blue {
+    height: 15em;
+    margin: .5em;
+}
+
+#red {
+    height: 15em;
+    margin: .5em;
+}
+
+h6 {
+    font-size: x-small;
+}
