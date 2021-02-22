@@ -1,9 +1,11 @@
 #about {
-    height: 60vh;
+    height: 70vh;
     background-color: black;
     color: white;
 }
 
 #myPhoto {
-    height: 20vh;
+    height: 30vh;
+    margin-top: 9.5vh;
+    margin-left: 3em;
 }
